@@ -1,0 +1,16 @@
+{
+    "name": "try-express-blockchain",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+
+    "dependencies": {
+        "crypto-js": "^4.1.1",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.15"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    }
+}
